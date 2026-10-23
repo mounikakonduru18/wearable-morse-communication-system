@@ -78,5 +78,5 @@ The nRF52840 PCB design is proposed. The validated build is the Arduino prototyp
 
 ## Authors
 
-Sai Sharmila Kasireddy, Payyavula Madhuri, Tejaswi Bayyapureddigari, Mounika Konduru
+Mounika Konduru, Sai Sharmila Kasireddy, Payyavula Madhuri, Tejaswi Bayyapureddigari
 Department of ECE, Mohan Babu University, Tirupati, Andhra Pradesh
